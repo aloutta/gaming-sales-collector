@@ -1,0 +1,1 @@
+# gaming-sales-collector
